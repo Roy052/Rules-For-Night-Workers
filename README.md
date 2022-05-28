@@ -29,6 +29,10 @@
         <td><img src = "https://img.itch.zone/aW1hZ2UvMTM5ODA0NC84ODQzNjc4LnBuZw==/347x500/XjORrR.png"></td>
       </table>
   </div>
+    <div>
+    <h2> Game Play Video </h2>
+    https://youtu.be/gek_9zgFFbw
+  </div>
   <div>
     <h2> What I learned </h2>
       I use external packages 'Universal RP' to create 2D Light.<br><br>
