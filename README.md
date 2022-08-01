@@ -1,28 +1,28 @@
 # Rules-For-Night-Workers
 <div>
-    <h2> Game Info </h2>
+    <h2> 게임 정보 </h2>
     <img src = "https://img.itch.zone/aW1nLzgxNDgwNDEucG5n/347x500/icJjdN.png"><br>
     <img src="https://img.shields.io/badge/Unity-yellow?style=flat-square&logo=Unity&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/Horror-black"/>
-    <h4> Development : 2022.02 <br><br>
-    Play Here : https://goodstarter.itch.io/rules-for-night-workers
+    <h4> 개발 일자 : 2022.02 <br><br>
+    플레이 : https://goodstarter.itch.io/rules-for-night-workers
     
   </div>
   <div>
-    <h2> Game Description </h2>
-    <h3> Story </h3>
-     It is inspired by neapolitan horror.<br><br>
-     It is a game about library night workers.<br><br>
-     You have to patrol the library and make sure nothing happens. <br><br>
-     But.. there are some secrets in this library!<br><br>
-    Stay alive until work is done.
-    <h3> Game Play </h3>
-     WASD to move your character.<br><br>
-     If there's an ! mark on your head, E to interact.<br><br>
-     Move your mouse to light up.
+    <h2> 게임 설명 </h2>
+    <h3> 스토리 </h3>
+     나폴리탄 괴담에서 영감을 받았다.<br><br>
+     이 게임은 도서관 야간 경비를 그린 게임이다.<br><br>
+     당신은 도서관을 순찰돌며 이상한 일이 없는지 확인한다. <br><br>
+     그러나.. 뭔가 이상한 비밀이 도서관에 숨겨져있다!<br><br>
+     일이 끝날 때까지 살아남자!
+    <h3> 게임 플레이 </h3>
+     WASD를 이용해 캐릭터를 움직인다.<br><br>
+     ! 마크가 캐릭터 머리 위에 떠있으면 E 키를 이용해 상호작용할 수 있다.<br><br>
+     마우스를 움직여 빛을 비출 수 있다.
   </div> 
   <div>
-    <h2> Game Screenshots </h2>
+    <h2> 게임 스크린샷 </h2>
       <table>
         <td><img src = "https://img.itch.zone/aW1hZ2UvMTM5ODA0NC84ODQzNjc2LnBuZw==/347x500/XDlXgL.png"></td>
         <td><img src = "https://img.itch.zone/aW1hZ2UvMTM5ODA0NC84ODQzNjc5LnBuZw==/347x500/qwK3WG.png"></td>
@@ -30,19 +30,19 @@
       </table>
   </div>
     <div>
-    <h2> Game Play Video </h2>
+    <h2> 게임 플레이 영상 </h2>
     https://youtu.be/gek_9zgFFbw
   </div>
   <div>
-    <h2> What I learned </h2>
-      I use external packages 'Universal RP' to create 2D Light.<br><br>
-      There are some instruction for this package, so I followed that.<br><br>
-      I always think that "The beginning is the hardest part"
+    <h2> 배운 점 </h2>
+      외부 패키지인 'Universal RP'을 이용해 2D 라이트를 만들어보았다.<br><br>
+      캐릭터 위치를 이용해 따라다니는 !마크와 Text를 만들어보았다.<br><br>
+      이번 게임을 개발할 때 의욕이 없어 미룬 것을 보면 "시작이 제일 힘들다"는 것을 깨달았다.
   </div>
   <div>
-    <h2> What I can fix </h2>
-      Add more contents<br><br>
-      Seperate ! mark and instruction text
+    <h2> 수정할 점 </h2>
+      더 많은 컨텐츠<br><br>
+      !와 설명 텍스트를 분리하기
    <h2> Design Picture </h2>
    <table>
         <td><img src = "https://postfiles.pstatic.net/MjAyMjAyMTRfMTU0/MDAxNjQ0Nzk5MDY4MjE5.R6o2BxdQB-y4kM7bdntOZo4qmczj5MCmc7OR1b503Fwg.E88SMhJeAc5NtXFANEK4HZN4fjmHUk96VzNfXmi8Uzcg.JPEG.tdj04131/KakaoTalk_20220214_093704495.jpg?type=w773" height = 500></td>
